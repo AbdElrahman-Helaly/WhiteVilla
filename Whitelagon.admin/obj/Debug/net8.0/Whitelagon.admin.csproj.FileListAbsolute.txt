@@ -1,0 +1,12 @@
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\bin\Debug\net8.0\Whitelagon.admin.deps.json
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\bin\Debug\net8.0\Whitelagon.admin.dll
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\bin\Debug\net8.0\Whitelagon.admin.pdb
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\Whitelagon.admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\Whitelagon.admin.AssemblyInfoInputs.cache
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\Whitelagon.admin.AssemblyInfo.cs
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\Whitelagon.admin.csproj.CoreCompileInputs.cache
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\Whitelagon.admin.dll
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\refint\Whitelagon.admin.dll
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\Whitelagon.admin.pdb
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\ref\Whitelagon.admin.dll
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\Whitelagon.admin.csproj.AssemblyReference.cache

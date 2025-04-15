@@ -1,0 +1,15 @@
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\bin\Debug\net8.0\Whitelagon.Application.deps.json
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\bin\Debug\net8.0\Whitelagon.Application.dll
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\bin\Debug\net8.0\Whitelagon.Application.pdb
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\bin\Debug\net8.0\Whitelagon.admin.dll
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\bin\Debug\net8.0\Whitelagon.admin.pdb
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\Whitelagon.Application.csproj.AssemblyReference.cache
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\Whitelagon.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\Whitelagon.Application.AssemblyInfoInputs.cache
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\Whitelagon.Application.AssemblyInfo.cs
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\Whitelagon.Application.csproj.CoreCompileInputs.cache
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\Whitelag.7F0E481D.Up2Date
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\Whitelagon.Application.dll
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\refint\Whitelagon.Application.dll
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\Whitelagon.Application.pdb
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\ref\Whitelagon.Application.dll

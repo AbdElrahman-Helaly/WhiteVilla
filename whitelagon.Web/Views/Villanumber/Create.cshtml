@@ -1,0 +1,53 @@
+﻿@model Villanumber
+
+
+<div class="w-100 card border-0 p-4">
+<div class="card-header bg-success bg-gradient ml-0 py-3"
+<div class="row">
+<div class="col-12 text-center">
+     <h2 class="text-white py-2">Create VillaNumber</h2>
+</div>
+</div>
+
+
+<form method="post" class="row">
+<div class="p-3">
+<div asp-validation-summary="All"></div>
+<div class="form-floationg py-1 col-12">
+    <label asp-for="Villa_Id" class="ms-2"></label>
+<select asp-for="Villa_Id" asp-items="@ViewData["SelectList"] as IEnumerable<SelectListItem>" class="form-select border shadow"></select>
+    <option disabled selected>--Select Villa--</option>
+    <span asp-validation-for="Villa_Id" class="text-danger"></span>
+</div>
+
+<div class="form-floationg py-1 col-12">
+     <label asp-for="Villa_Number" class="ms-2"></label>
+     <input asp-for="Villa_Number" class="form-control border shadow"/>
+     <span asp-validation-for="Villa_Number" class="text-danger"></span>
+</div>
+
+<div class="form-floationg py-1 col-12">
+     <label asp-for="PublicDetails" class="ms-2"></label>
+     <input asp-for="PublicDetails" class="form-control border shadow"/>
+     <span asp-validation-for="PublicDetails" class="text-danger"></span>
+</div>
+
+        
+<div class="row pt-2">
+<div class="col-6 col-md-3">
+ <button type="submit" class="btn btn-success w-100"> Create
+     <i class="bi bi-plus-circle-fill"></i>
+ </button>
+</div>
+
+<div class="col-6 col-md-3">
+      <a asp-action="Index" class="btn btn-secondary w-100"> Cancel
+          <i class="bi bi-x-circle-fill"></i>
+      </a>
+</div>
+</div>
+</div>
+
+
+</form>
+</div>

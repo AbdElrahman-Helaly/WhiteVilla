@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Amenity>
+
+<div class="w-100 card border-0 p-4">
+    <div class="card-header bg-success bg-gradient ml-0 py-3">
+
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Amenity List</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body border p-4">
+        <div class="row">
+            <div class="col-12">
+                <a asp-action="Create" asp-controller="Amenity" class="btn btn-secondary"><i class="bi bi-plus-circle-fill"></i> Create New Villa</a>
+            </div>
+        </div>
+    </div>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>VillaId</th>
+           
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var villa in Model)
+            {
+                <tr>
+                    <td>@villa.Name</td>
+                    <td>@villa.Description</td>
+                    <td>@villa.VillaId</td>
+                  
+
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+                            <a asp-controller="Villa" asp-action="Update" asp-route-Id="@villa.Id"
+                               class="btn btn-success mx-2">
+                                <i class="bi bi-pencil-square"></i>Update
+                            </a>
+                            <a asp-controller="Villa" asp-action="Delete" asp-route-Id="@villa.Id"
+                               class="btn btn-danger mx-2">
+                                <i class="bi bi-trash3"></i> Delete
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+</div>
