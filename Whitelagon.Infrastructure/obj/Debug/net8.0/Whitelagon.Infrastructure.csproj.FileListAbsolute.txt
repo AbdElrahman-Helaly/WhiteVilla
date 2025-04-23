@@ -17,3 +17,4 @@ C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Infrastructure\obj\Debug\
 C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Infrastructure\obj\Debug\net8.0\Whitelagon.Infrastructure.pdb
 C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Infrastructure\obj\Debug\net8.0\Whitelagon.Infrastructure.genruntimeconfig.cache
 C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Infrastructure\obj\Debug\net8.0\ref\Whitelagon.Infrastructure.dll
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Infrastructure\obj\Debug\net8.0\Whitelagon.Infrastructure.sourcelink.json

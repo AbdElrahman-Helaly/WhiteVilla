@@ -31,7 +31,7 @@
                                 {
                                     @if (villa.IsAvailable)
                                     {
-                                        <a asp-controller="Booking" asp-action="Finalizebooking" asp-route-check="@villa.c"
+                                        <a asp-controller="Booking" asp-action="Finalizebooking" asp-route-check="@villa.Id"
                                         asp-route-Id="@villa.Id  >
                                         btn btn-success form-control btn-block">
                                             Book
