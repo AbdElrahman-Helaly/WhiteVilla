@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Whitelagon.admin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5afe13fd4f5fa60170bcb9523a59ba6976bb09c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Whitelagon.admin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Whitelagon.admin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

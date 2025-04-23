@@ -10,3 +10,4 @@ C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\re
 C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\Whitelagon.admin.pdb
 C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\ref\Whitelagon.admin.dll
 C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\Whitelagon.admin.csproj.AssemblyReference.cache
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.admin\obj\Debug\net8.0\Whitelagon.admin.sourcelink.json

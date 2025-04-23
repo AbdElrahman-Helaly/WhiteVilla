@@ -13,3 +13,4 @@ C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net
 C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\refint\Whitelagon.Application.dll
 C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\Whitelagon.Application.pdb
 C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\ref\Whitelagon.Application.dll
+C:\Users\FORMAT\source\repos\whitelagon.Web\Whitelagon.Application\obj\Debug\net8.0\Whitelagon.Application.sourcelink.json

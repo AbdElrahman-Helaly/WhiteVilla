@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages.Manage;
 using whitelagon.Web.ViewModel;
 using Whitelagon.admin.Entities;
 using Whitelagon.Application.Common;
@@ -156,9 +157,20 @@ namespace whitelagon.Web.Controllers
             _signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home");
         }
-        public IActionResult ForgetPassword()
+        [HttpPost]
+        public async Task<IActionResult> ForgetPassword(ForgetpasswordVM forgetpasswordVM)
         {
-            return View();
+            var user = await _userManager.FindByEmailAsync(forgetpasswordVM.Email);
+            if (user == null || !(await _userManager.IsEmailConfirmedAsync(user)))
+                return RedirectToAction("ForgotPasswordConfirmation");
+
+            var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+            var callbackUrl = Url.Action("ResetPassword", "Account",
+                new { token, email = user.Email }, protocol: Request.Scheme);
+
+            Console.WriteLine(callbackUrl);
+
+            return RedirectToAction("ForgotPasswordConfirmation");
         }
         public IActionResult AccessDenied()
         {
