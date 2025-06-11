@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\whitelagon.Web.props" />
-</Project>

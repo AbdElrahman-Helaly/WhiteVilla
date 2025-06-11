@@ -56,7 +56,7 @@ namespace whitelagon.Web.Controllers
                 VillaList = villalist,
                 nights = nights
             };
-            return PartialView("_VillaList", homeVM);
+            return View("_VillaList", homeVM);
         }
 
        public IActionResult Details()
@@ -68,7 +68,6 @@ namespace whitelagon.Web.Controllers
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View();

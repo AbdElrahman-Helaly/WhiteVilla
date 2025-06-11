@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PNOb5sF7WYg=",
+  "dgSpecHash": "Cwk69U6/ypw=",
   "success": true,
   "projectFilePath": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -106,7 +106,11 @@
     "C:\\Users\\FORMAT\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\FORMAT\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
     "C:\\Users\\FORMAT\\.nuget\\packages\\system.threading.tasks.extensions\\4.6.0\\system.threading.tasks.extensions.4.6.0.nupkg.sha512",
-    "C:\\Users\\FORMAT\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\FORMAT\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\FORMAT\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\10.0.100-preview.1.25120.13\\microsoft.net.sdk.compilers.toolset.10.0.100-preview.1.25120.13.nupkg.sha512",
+    "C:\\Users\\FORMAT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\FORMAT\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\FORMAT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512"
   ],
   "logs": []
 }

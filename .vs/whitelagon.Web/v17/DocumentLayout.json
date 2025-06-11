@@ -3,80 +3,120 @@
   "WorkspaceRootPath": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\views\\home\\_villalist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\views\\home\\_villalist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\viewmodel\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\viewmodel\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\views\\shared\\_loginpartion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\views\\shared\\_loginpartion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|solutionrelative:whitelagon.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\views\\booking\\finalizebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\views\\booking\\finalizebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\views\\home\\_villalist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\views\\home\\_villalist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\controllers\\villanumbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\controllers\\villanumbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22E74394-61F9-4198-B99E-548A22469429}|Whitelagon.admin\\Whitelagon.admin.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.admin\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E74394-61F9-4198-B99E-548A22469429}|Whitelagon.admin\\Whitelagon.admin.csproj|solutionrelative:whitelagon.admin\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F98683B-CA84-49E9-9E2B-CA1D3C813E46}|Whitelagon.Application\\Whitelagon.Application.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.application\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F98683B-CA84-49E9-9E2B-CA1D3C813E46}|Whitelagon.Application\\Whitelagon.Application.csproj|solutionrelative:whitelagon.application\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.infrastructure\\repository\\unitwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|solutionrelative:whitelagon.infrastructure\\repository\\unitwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|solutionrelative:whitelagon.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.infrastructure\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|solutionrelative:whitelagon.infrastructure\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F98683B-CA84-49E9-9E2B-CA1D3C813E46}|Whitelagon.Application\\Whitelagon.Application.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.application\\common\\ibooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F98683B-CA84-49E9-9E2B-CA1D3C813E46}|Whitelagon.Application\\Whitelagon.Application.csproj|solutionrelative:whitelagon.application\\common\\ibooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.infrastructure\\repository\\amenityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|solutionrelative:whitelagon.infrastructure\\repository\\amenityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F98683B-CA84-49E9-9E2B-CA1D3C813E46}|Whitelagon.Application\\Whitelagon.Application.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.application\\common\\iamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F98683B-CA84-49E9-9E2B-CA1D3C813E46}|Whitelagon.Application\\Whitelagon.Application.csproj|solutionrelative:whitelagon.application\\common\\iamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\controllers\\amenitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\controllers\\amenitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.infrastructure\\repository\\villarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|solutionrelative:whitelagon.infrastructure\\repository\\villarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.infrastructure\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|solutionrelative:whitelagon.infrastructure\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|solutionrelative:whitelagon.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.infrastructure\\repository\\unitwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|solutionrelative:whitelagon.infrastructure\\repository\\unitwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.infrastructure\\repository\\amenityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|solutionrelative:whitelagon.infrastructure\\repository\\amenityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|solutionrelative:whitelagon.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98683B-CA84-49E9-9E2B-CA1D3C813E46}|Whitelagon.Application\\Whitelagon.Application.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.application\\common\\iamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F98683B-CA84-49E9-9E2B-CA1D3C813E46}|Whitelagon.Application\\Whitelagon.Application.csproj|solutionrelative:whitelagon.application\\common\\iamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98683B-CA84-49E9-9E2B-CA1D3C813E46}|Whitelagon.Application\\Whitelagon.Application.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.application\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F98683B-CA84-49E9-9E2B-CA1D3C813E46}|Whitelagon.Application\\Whitelagon.Application.csproj|solutionrelative:whitelagon.application\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E74394-61F9-4198-B99E-548A22469429}|Whitelagon.admin\\Whitelagon.admin.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.admin\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E74394-61F9-4198-B99E-548A22469429}|Whitelagon.admin\\Whitelagon.admin.csproj|solutionrelative:whitelagon.admin\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E74394-61F9-4198-B99E-548A22469429}|Whitelagon.admin\\Whitelagon.admin.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.admin\\entities\\villanumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E74394-61F9-4198-B99E-548A22469429}|Whitelagon.admin\\Whitelagon.admin.csproj|solutionrelative:whitelagon.admin\\entities\\villanumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\viewmodel\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\viewmodel\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\views\\booking\\finalizebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\views\\booking\\finalizebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6D5BBB-D4BD-43F6-ABEB-2601CA9AFA08}|whitelagon.Web\\whitelagon.Web.csproj|solutionrelative:whitelagon.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98683B-CA84-49E9-9E2B-CA1D3C813E46}|Whitelagon.Application\\Whitelagon.Application.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.application\\common\\ibooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F98683B-CA84-49E9-9E2B-CA1D3C813E46}|Whitelagon.Application\\Whitelagon.Application.csproj|solutionrelative:whitelagon.application\\common\\ibooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DF5FEFB-EC13-4574-946B-21A7A59C97A1}|Whitelagon.Infrastructure\\Whitelagon.Infrastructure.csproj|c:\\users\\format\\source\\repos\\whitelagon.web\\whitelagon.infrastructure\\migrations\\20250410190523_addbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,47 +130,46 @@
       "DocumentGroups": [
         {
           "DockedHeight": 139,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ForgetpasswordVM.cs",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\ViewModel\\ForgetpasswordVM.cs",
-              "RelativeDocumentMoniker": "whitelagon.Web\\ViewModel\\ForgetpasswordVM.cs",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\ViewModel\\ForgetpasswordVM.cs",
-              "RelativeToolTip": "whitelagon.Web\\ViewModel\\ForgetpasswordVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T10:57:37.012Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VillaController.cs",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\VillaController.cs",
-              "RelativeDocumentMoniker": "whitelagon.Web\\Controllers\\VillaController.cs",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\VillaController.cs",
-              "RelativeToolTip": "whitelagon.Web\\Controllers\\VillaController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAgvQ0AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T10:56:01.831Z"
+              "Title": "_LoginPartion.cshtml",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Shared\\_LoginPartion.cshtml",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Shared\\_LoginPartion.cshtml",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Shared\\_LoginPartion.cshtml",
+              "RelativeToolTip": "whitelagon.Web\\Views\\Shared\\_LoginPartion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T08:18:54.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Finalizebooking.cshtml",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Booking\\Finalizebooking.cshtml",
-              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Booking\\Finalizebooking.cshtml",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Booking\\Finalizebooking.cshtml",
-              "RelativeToolTip": "whitelagon.Web\\Views\\Booking\\Finalizebooking.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "whitelagon.Web\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACUAAAAAMzMzMzMrwD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T22:56:41.95Z"
+              "WhenOpened": "2025-06-11T07:36:09.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VillanumberController.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\VillanumberController.cs",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Controllers\\VillanumberController.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\VillanumberController.cs",
+              "RelativeToolTip": "whitelagon.Web\\Controllers\\VillanumberController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:27:52.43Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -140,26 +179,317 @@
               "RelativeDocumentMoniker": "whitelagon.Web\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\AccountController.cs",
               "RelativeToolTip": "whitelagon.Web\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKoAAAAAAAAA",
+              "ViewState": "AgIAADsAAADgzMzMzMwkwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T19:17:00.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "whitelagon.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAMjMzMzPjvy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T14:28:53.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "whitelagon.Web\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T07:38:11.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "_VillaList.cshtml",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Home\\_VillaList.cshtml",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Home\\_VillaList.cshtml",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Home\\_VillaList.cshtml",
+              "RelativeToolTip": "whitelagon.Web\\Views\\Home\\_VillaList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T14:59:59.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "whitelagon.Web\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T08:05:16.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "whitelagon.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAACAZmZmZmYkwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T14:59:12.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "whitelagon.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABEAAADAzMzMzMwqwDMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T07:36:04.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "whitelagon.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAADA/f////8PwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:39:54.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "whitelagon.Web\\Controllers\\BookingController.cs",
               "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\BookingController.cs",
               "RelativeToolTip": "whitelagon.Web\\Controllers\\BookingController.cs",
-              "ViewState": "AQIAAAsAAABgZmZmZmYswBMAAAAHAAAA",
+              "ViewState": "AgIAAA0AAABgZmZmZmYswBMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T19:13:49.766Z"
+              "WhenOpened": "2025-04-10T19:13:49.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VillaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\VillaRepository.cs",
+              "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Repository\\VillaRepository.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\VillaRepository.cs",
+              "RelativeToolTip": "Whitelagon.Infrastructure\\Repository\\VillaRepository.cs",
+              "ViewState": "AgIAADsAAAAAnJmZmZkJwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:31:21.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AmenityController.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\AmenityController.cs",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Controllers\\AmenityController.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\AmenityController.cs",
+              "RelativeToolTip": "whitelagon.Web\\Controllers\\AmenityController.cs",
+              "ViewState": "AgIAABEAAABgZmZmZmYwwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:21:43.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Whitelagon.Infrastructure\\Repository\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:38:12.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "Whitelagon.Infrastructure\\Repository\\Repository.cs",
+              "ViewState": "AgIAABEAAACAZmZmZmYowEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:03:20.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Unitwork.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\Unitwork.cs",
+              "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Repository\\Unitwork.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\Unitwork.cs",
+              "RelativeToolTip": "Whitelagon.Infrastructure\\Repository\\Unitwork.cs",
+              "ViewState": "AgIAAAYAAABAMzMzMzMTwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:04:40.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VillaController.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\VillaController.cs",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Controllers\\VillaController.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\VillaController.cs",
+              "RelativeToolTip": "whitelagon.Web\\Controllers\\VillaController.cs",
+              "ViewState": "AgIAAGYAAADAmZmZmZkRwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:56:01.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AmenityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\AmenityRepository.cs",
+              "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Repository\\AmenityRepository.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\AmenityRepository.cs",
+              "RelativeToolTip": "Whitelagon.Infrastructure\\Repository\\AmenityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:38:24.941Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "ApplicationDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Data\\ApplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Data\\ApplicationDbcontext.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Data\\ApplicationDbcontext.cs",
+              "RelativeToolTip": "Whitelagon.Infrastructure\\Data\\ApplicationDbcontext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAABIPRcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:03:36.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAmenity.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Application\\Common\\IAmenity.cs",
+              "RelativeDocumentMoniker": "Whitelagon.Application\\Common\\IAmenity.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Application\\Common\\IAmenity.cs",
+              "RelativeToolTip": "Whitelagon.Application\\Common\\IAmenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:34:58.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Iunitofwork.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Application\\Common\\Iunitofwork.cs",
+              "RelativeDocumentMoniker": "Whitelagon.Application\\Common\\Iunitofwork.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Application\\Common\\Iunitofwork.cs",
+              "RelativeToolTip": "Whitelagon.Application\\Common\\Iunitofwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:34:39.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.admin\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "Whitelagon.admin\\Entities\\Booking.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.admin\\Entities\\Booking.cs",
+              "RelativeToolTip": "Whitelagon.admin\\Entities\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:04:53.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Villanumber.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.admin\\Entities\\Villanumber.cs",
+              "RelativeDocumentMoniker": "Whitelagon.admin\\Entities\\Villanumber.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.admin\\Entities\\Villanumber.cs",
+              "RelativeToolTip": "Whitelagon.admin\\Entities\\Villanumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:58:22.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\ViewModel\\HomeVM.cs",
+              "RelativeDocumentMoniker": "whitelagon.Web\\ViewModel\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\ViewModel\\HomeVM.cs",
+              "RelativeToolTip": "whitelagon.Web\\ViewModel\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:56:44.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Finalizebooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Booking\\Finalizebooking.cshtml",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Booking\\Finalizebooking.cshtml",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Booking\\Finalizebooking.cshtml",
+              "RelativeToolTip": "whitelagon.Web\\Views\\Booking\\Finalizebooking.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T22:56:41.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "whitelagon.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "whitelagon.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:56:13.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "20250410190523_AddBooking.cs",
               "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Migrations\\20250410190523_AddBooking.cs",
               "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Migrations\\20250410190523_AddBooking.cs",
@@ -171,67 +501,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Unitwork.cs",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\Unitwork.cs",
-              "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Repository\\Unitwork.cs",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\Unitwork.cs",
-              "RelativeToolTip": "Whitelagon.Infrastructure\\Repository\\Unitwork.cs",
-              "ViewState": "AQIAAAQAAABgZmZmZmYgwBQAAAAAAAAA",
+              "DocumentIndex": 25,
+              "Title": "ForgetpasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\ViewModel\\ForgetpasswordVM.cs",
+              "RelativeDocumentMoniker": "whitelagon.Web\\ViewModel\\ForgetpasswordVM.cs",
+              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\ViewModel\\ForgetpasswordVM.cs",
+              "RelativeToolTip": "whitelagon.Web\\ViewModel\\ForgetpasswordVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T19:04:40.733Z"
+              "WhenOpened": "2025-04-23T10:57:37.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbcontext.cs",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Data\\ApplicationDbcontext.cs",
-              "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Data\\ApplicationDbcontext.cs",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Data\\ApplicationDbcontext.cs",
-              "RelativeToolTip": "Whitelagon.Infrastructure\\Data\\ApplicationDbcontext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T19:03:36.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\Repository.cs",
-              "RelativeToolTip": "Whitelagon.Infrastructure\\Repository\\Repository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T19:03:20.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AmenityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\AmenityRepository.cs",
-              "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Repository\\AmenityRepository.cs",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\AmenityRepository.cs",
-              "RelativeToolTip": "Whitelagon.Infrastructure\\Repository\\AmenityRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T18:38:24.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\BookRepository.cs",
-              "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Repository\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\BookRepository.cs",
-              "RelativeToolTip": "Whitelagon.Infrastructure\\Repository\\BookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T18:38:12.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "IBooking.cs",
               "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Application\\Common\\IBooking.cs",
               "RelativeDocumentMoniker": "Whitelagon.Application\\Common\\IBooking.cs",
@@ -240,103 +523,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T18:35:21.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IAmenity.cs",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Application\\Common\\IAmenity.cs",
-              "RelativeDocumentMoniker": "Whitelagon.Application\\Common\\IAmenity.cs",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Application\\Common\\IAmenity.cs",
-              "RelativeToolTip": "Whitelagon.Application\\Common\\IAmenity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T18:34:58.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Iunitofwork.cs",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Application\\Common\\Iunitofwork.cs",
-              "RelativeDocumentMoniker": "Whitelagon.Application\\Common\\Iunitofwork.cs",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Application\\Common\\Iunitofwork.cs",
-              "RelativeToolTip": "Whitelagon.Application\\Common\\Iunitofwork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T18:34:39.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.admin\\Entities\\Booking.cs",
-              "RelativeDocumentMoniker": "Whitelagon.admin\\Entities\\Booking.cs",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.admin\\Entities\\Booking.cs",
-              "RelativeToolTip": "Whitelagon.admin\\Entities\\Booking.cs",
-              "ViewState": "AQIAABsAAACAZmZmZmYawCoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T18:04:53.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_VillaList.cshtml",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Home\\_VillaList.cshtml",
-              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Home\\_VillaList.cshtml",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Home\\_VillaList.cshtml*",
-              "RelativeToolTip": "whitelagon.Web\\Views\\Home\\_VillaList.cshtml*",
-              "ViewState": "AQIAABAAAABwZmZmZmYmwCEAAAB7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T14:59:59.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "whitelagon.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAF0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T14:59:12.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "VillaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\VillaRepository.cs",
-              "RelativeDocumentMoniker": "Whitelagon.Infrastructure\\Repository\\VillaRepository.cs",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\Whitelagon.Infrastructure\\Repository\\VillaRepository.cs",
-              "RelativeToolTip": "Whitelagon.Infrastructure\\Repository\\VillaRepository.cs",
-              "ViewState": "AQIAADIAAAAAnJmZmZkJwDIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T14:31:21.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "whitelagon.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "whitelagon.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA8AAAAgMzMzMzMlwB8AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T14:39:54.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "whitelagon.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\FORMAT\\source\\repos\\whitelagon.Web\\whitelagon.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "whitelagon.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACUAAAAAMzMzMzMrwEYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T14:28:53.503Z"
             }
           ]
         }

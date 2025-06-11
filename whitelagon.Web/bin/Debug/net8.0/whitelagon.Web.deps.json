@@ -2133,7 +2133,10 @@
           "Microsoft.AspNetCore.Mvc.Core": "2.3.0"
         },
         "runtime": {
-          "Whitelagon.admin.dll": {}
+          "Whitelagon.admin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Whitelagon.Application/1.0.0": {
@@ -2141,7 +2144,10 @@
           "Whitelagon.admin": "1.0.0"
         },
         "runtime": {
-          "Whitelagon.Application.dll": {}
+          "Whitelagon.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Whitelagon.Infrastructure/1.0.0": {
@@ -2151,7 +2157,10 @@
           "Whitelagon.Application": "1.0.0"
         },
         "runtime": {
-          "Whitelagon.Infrastructure.dll": {}
+          "Whitelagon.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

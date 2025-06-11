@@ -36,7 +36,6 @@ namespace Whitelagon.Infrastructure.Repository
                 }
                 if (!string.IsNullOrEmpty(includeproperties))
                 {
-                    //Villa
                     foreach (var includeproperty in includeproperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
                     {
                         query = query.Include(includeproperty);
@@ -48,13 +47,13 @@ namespace Whitelagon.Infrastructure.Repository
          IEnumerable<T> IRepository<T>.GetAll(Expression<Func<T, bool>>? filter, string? includeproperties)
             {
                 IQueryable<T> query = db.Set<T>();
+
                 if (filter != null)
                 {
                     query = query.Where(filter);
                 }
                 if (!string.IsNullOrEmpty(includeproperties))
                 {
-                    //Villa
                     foreach (var includeproperty in includeproperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
                     {
                         query = query.Include(includeproperty);

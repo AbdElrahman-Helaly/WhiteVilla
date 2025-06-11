@@ -30,16 +30,14 @@ namespace whitelagon.Web.Controllers
             return View();
         }
 
-        public IActionResult Login(string returnurl=null)
+        [HttpGet]
+        public IActionResult Login()
         {
-            returnurl ??= Url.Content("~/");
-            LoginVM loginVM = new()
-            {
-                RedirectUrl = returnurl
-            };
-           
-            return View(loginVM);
+            return View();
         }
+
+
+
         [HttpPost]
         public async Task<IActionResult> Login(LoginVM loginVM)
         {
@@ -65,23 +63,19 @@ namespace whitelagon.Web.Controllers
             }
             return View(loginVM);
         }
-    
+
+        [HttpGet]
         public IActionResult Register()
         {
-         if(!_roleManager.RoleExistsAsync(SD.Role_Admin).GetAwaiter().GetResult())
+            RegisterVM registerVM = new RegisterVM
             {
-                _roleManager.CreateAsync(new IdentityRole(SD.Role_Admin)).GetAwaiter().GetResult();
-                _roleManager.CreateAsync(new IdentityRole(SD.Role_User)).GetAwaiter().GetResult();
-            }
-         RegisterVM registerVM = new()
-            {
-             Rolelist = _roleManager.Roles.Select(i => new SelectListItem
-             {
-                    Text = i.Name,
-                    Value = i.Name
-                })
-
-         };
+                Rolelist = _roleManager.Roles
+                            .Select(r => new SelectListItem
+                            {
+                                Text = r.Name,
+                                Value = r.Name
+                            }).ToList()
+            };
 
             return View(registerVM);
         }
@@ -102,7 +96,7 @@ namespace whitelagon.Web.Controllers
                     CreateAt = DateTime.Now,
 
                 };
-                var result = _userManager.CreateAsync(user, registerVM.Password).GetAwaiter().GetResult();
+                var result = await _userManager.CreateAsync(user, registerVM.Password);
                
                 if (result.Succeeded)
                 {
@@ -116,14 +110,7 @@ namespace whitelagon.Web.Controllers
                     }
                   
                     await _signInManager.SignInAsync(user, isPersistent: false);
-                    if (registerVM.Role == null)
-                    {
-                        await _userManager.AddToRoleAsync(user, SD.Role_User);
-                    }
-                    else
-                    {
-                        await _userManager.AddToRoleAsync(user, registerVM.Role);
-                    }
+                    
               
                     if(string.IsNullOrEmpty(registerVM.RedirectUrl))
                     {
@@ -141,11 +128,7 @@ namespace whitelagon.Web.Controllers
                     ModelState.AddModelError(string.Empty, error.Description);
                 }
                
-                registerVM.Rolelist = _roleManager.Roles.Select(i => new SelectListItem
-                {
-                    Text = i.Name,
-                    Value = i.Name
-                });
+               
             }
              
             return View(registerVM);
@@ -157,21 +140,8 @@ namespace whitelagon.Web.Controllers
             _signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home");
         }
-        [HttpPost]
-        public async Task<IActionResult> ForgetPassword(ForgetpasswordVM forgetpasswordVM)
-        {
-            var user = await _userManager.FindByEmailAsync(forgetpasswordVM.Email);
-            if (user == null || !(await _userManager.IsEmailConfirmedAsync(user)))
-                return RedirectToAction("ForgotPasswordConfirmation");
-
-            var token = await _userManager.GeneratePasswordResetTokenAsync(user);
-            var callbackUrl = Url.Action("ResetPassword", "Account",
-                new { token, email = user.Email }, protocol: Request.Scheme);
-
-            Console.WriteLine(callbackUrl);
-
-            return RedirectToAction("ForgotPasswordConfirmation");
-        }
+        
+        
         public IActionResult AccessDenied()
         {
             return View();

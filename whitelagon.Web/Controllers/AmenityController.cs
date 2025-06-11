@@ -9,11 +9,9 @@ namespace whitelagon.Web.Controllers
     public class AmenityController : Controller
     {
        private Iunitofwork Unit;
-        private readonly IWebHostEnvironment webHost;
-        public AmenityController(Iunitofwork _Unit, IWebHostEnvironment _webHost)
+        public AmenityController(Iunitofwork _Unit)
         {
             Unit = _Unit;
-            webHost = _webHost;
         }
         public IActionResult Index()
         {
